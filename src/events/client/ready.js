@@ -1,3 +1,4 @@
+//comando básico de ligação do bot
 module.exports = {
     name: 'ready',
     once: 'true',
